@@ -4,6 +4,7 @@
   "description": "Web server to provide MapR DB documents",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.18.0",
     "express": "^4.16.4",
     "kafka-node": "^4.0.0",
     "node-maprdb": "^1.0.0",
